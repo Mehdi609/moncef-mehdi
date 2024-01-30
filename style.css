@@ -1,0 +1,32 @@
+.stl a{
+    color: white;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+.stl a:hover{
+    color: white;
+    
+}
+.hov:hover{
+    background-color: white;
+    color: gray;
+}
+.hov{
+    background-color: gray;
+    color: white;
+}
+
+
+.honk {
+  font-family: "Honk", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "MORF" 15,
+    "SHLN" 50;
+}
+.a{
+
+    -webkit-filter: grayscale(100%); /* Chrome, Safari, Opera */
+    filter: grayscale(100%); /* Firefox */ }
